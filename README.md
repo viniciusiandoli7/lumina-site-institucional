@@ -1,4 +1,4 @@
-# 🏢 Lumina Corporate | Site Institucional Premium
+# 🏢 Lumina Corporate | Site Institucional
 
 ![Preview do Projeto] (https://viniciusiandoli7.github.io/lumina-site-institucional/)
 
