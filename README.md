@@ -29,6 +29,3 @@ Este projeto foi construído utilizando as seguintes tecnologias:
 
 Como é um projeto puramente estático (Front-end Vanilla), não é necessário instalar dependências ou usar gerenciadores de pacotes.
 
-1. Clone este repositório:
-   ```bash
-   git clone [https://github.com/SEU-USUARIO/lumina-corporate.git](https://github.com/SEU-USUARIO/lumina-corporate.git)
